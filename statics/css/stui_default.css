@@ -174,7 +174,7 @@ body{ padding-top:100px}
 
 /*当前位置*/
 .bread-crumb-nav{height:40px;line-height:40px;margin:10px auto;border:1px solid #ddd; clear:both; width:998px;}
-.bread-crumbs li{float:left;font-size:14px;padding:0 12px 0 20px;background:url(https://cdn.jsdelivr.net/gh/haopdy/haopdyb/bread-crumbs.gif) left center no-repeat;}
+.bread-crumbs li{float:left;font-size:14px;padding:0 12px 0 20px;background:url(https://cdn.jsdelivr.net/gh/haopdy/haopdyb/statis/bread-crumbs.gif) left center no-repeat;}
 .bread-crumbs li.back{ float:right;background:none;}
 .bread-crumbs li.home{ background:none;}
 .bread-crumbs li a{}
