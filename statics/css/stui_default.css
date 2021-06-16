@@ -11,7 +11,7 @@ body{ padding-top:100px}
 /* header-logo */
 .stui-header__logo,.stui-header__menu{float:left}
 .stui-header__logo{margin-top:15px}
-.stui-header__logo .logo{display:block;width:150px;height:58px;background-position:50% 50% !important;background-size:cover !important;}
+.stui-header__logo .logo{display:block;width:150px;height:50px;background-position:50% 50% !important;background-size:cover !important;}
 
 /* header-menu */
 .stui-header__menu{position:relative;margin-left:10px}
