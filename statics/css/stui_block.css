@@ -130,7 +130,7 @@ textarea.form-control{ height: auto;}
 /* pannel */
 .stui-pannel{position: relative; margin-bottom: 20px;}
 .stui-pannel.stui-pannel-x{ margin: -10px -10px 10px;}
-.stui-pannel-bg{border-radius: 3px;}
+.stui-pannel-bg{border-radius: 5px;}
 .stui-pannel-side{ padding: 0 0 0 20px;}
 .stui-pannel-box{ padding: 1px;}
 .stui-pannel-box.active{ padding: 0; margin: -10px;}
