@@ -12,7 +12,7 @@ p{margin:0 0 10px;}
 /* container */
 *{-webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box}
 :after,:before{-webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box}
-.container {position: relative; padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto;}
+.container {position: relative; padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto; background-color:#ffffff;}
 .row{position: relative; margin-right: -15px; margin-left: -15px;}
 .container:before,.container:after,.row:before,.row:after,.clearfix:before, .clearfix:after{ display: table; content: " "; clear: both;}
 
