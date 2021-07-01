@@ -3,7 +3,7 @@
 body{ padding-top:100px}
 
 /* header */
-.stui-header__top{position:fixed;top:0;z-index: 999;width:100%;min-height:80px; background-color: #FFFFFF; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);}
+.stui-header__top{position:fixed;top:4px;z-index: 999;width:100%;min-height:80px; background-color: #FFFFFF; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);}
 .top-fixed-down{margin-top:-80px}
 .stui-header__side{float:right}
 
